@@ -1,0 +1,33 @@
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.deps.json
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.dll
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.pdb
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.csproj.CopyComplete
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+C:\Users\ugurc\source\repos\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.deps.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.csprojAssemblyReference.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.AssemblyInfoInputs.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.AssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.csproj.CopyComplete
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.deps.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.csprojAssemblyReference.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.AssemblyInfoInputs.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.AssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.csproj.CopyComplete
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry.Data\obj\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb

@@ -1,0 +1,41 @@
+﻿@page
+@model UzmanLaundry.Pages.Admin.Islemler.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<div class="container">
+    <main role="main" class="pb-3">
+        <p>
+            <a asp-page="Create">Create New</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Islem[0].islemTuru)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Islem)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.islemTuru)
+                        </td>
+                        <td>
+                            <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |
+                            <a asp-page="./Details" asp-route-id="@item.ID">Details</a> |
+                            <a asp-page="./Delete" asp-route-id="@item.ID">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </main>
+</div>
+

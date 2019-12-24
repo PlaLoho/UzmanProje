@@ -1,0 +1,722 @@
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.csprojAssemblyReference.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\staticwebassets\UzmanLaundry.StaticWebAssets.Manifest.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\staticwebassets\UzmanLaundry.StaticWebAssets.xml
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorAssemblyInfo.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorAssemblyInfo.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.TagHelpers.input.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.TagHelpers.output.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorCoreGenerate.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Create.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Delete.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Details.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Edit.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Index.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Create.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Delete.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Details.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Edit.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Index.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorTargetAssemblyInfo.cache
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorTargetAssemblyInfo.cs
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.pdb
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.StaticWebAssets.xml
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.exe
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.deps.json
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.runtimeconfig.json
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.runtimeconfig.dev.json
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.pdb
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Views.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Views.pdb
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.dll
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+C:\Users\ugurc\source\repos\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.pdb
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.Views.pdb
+C:\Users\ugurc\source\repos\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.csproj.CopyComplete
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.StaticWebAssets.xml
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.exe
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.deps.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.runtimeconfig.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.runtimeconfig.dev.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Views.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Views.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.csprojAssemblyReference.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\staticwebassets\UzmanLaundry.StaticWebAssets.Manifest.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\staticwebassets\UzmanLaundry.StaticWebAssets.xml
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.MvcApplicationPartsAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.MvcApplicationPartsAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.AssemblyInfoInputs.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.AssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.TagHelpers.input.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.TagHelpers.output.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorCoreGenerate.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Create.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Delete.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Details.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Edit.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Create.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Delete.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Details.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Edit.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorTargetAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorTargetAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.Views.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.csproj.CopyComplete
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.001\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.StaticWebAssets.xml
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.exe
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.deps.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.runtimeconfig.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.runtimeconfig.dev.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Views.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Views.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.csprojAssemblyReference.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\staticwebassets\UzmanLaundry.StaticWebAssets.Manifest.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\staticwebassets\UzmanLaundry.StaticWebAssets.xml
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.MvcApplicationPartsAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.MvcApplicationPartsAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.AssemblyInfoInputs.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.AssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.TagHelpers.input.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.TagHelpers.output.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorCoreGenerate.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Create.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Delete.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Details.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Edit.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Create.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Delete.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Details.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Edit.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorTargetAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorTargetAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.Views.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.csproj.CopyComplete
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.002\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.StaticWebAssets.xml
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.exe
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.deps.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.runtimeconfig.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.runtimeconfig.dev.json
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Views.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Views.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Data.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\bin\Debug\netcoreapp3.1\UzmanLaundry.Models.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.csprojAssemblyReference.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\staticwebassets\UzmanLaundry.StaticWebAssets.Manifest.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\staticwebassets\UzmanLaundry.StaticWebAssets.xml
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.MvcApplicationPartsAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.MvcApplicationPartsAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.AssemblyInfoInputs.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.AssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.TagHelpers.input.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.TagHelpers.output.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorCoreGenerate.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Create.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Delete.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Details.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Edit.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Islemler\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Create.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Delete.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Details.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Edit.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Musteriler\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorTargetAssemblyInfo.cache
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.RazorTargetAssemblyInfo.cs
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.Views.pdb
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.csproj.CopyComplete
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.dll
+D:\GoogleDrive\Projeler\Uzman Sistem\v0.010\UzmanLaundry\obj\Debug\netcoreapp3.1\UzmanLaundry.pdb
